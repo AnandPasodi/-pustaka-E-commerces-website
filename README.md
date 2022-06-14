@@ -96,3 +96,7 @@ The [user profile](https://pustaka.netlify.app/user-profile/user-profile.html) p
 
 <br/>
 <br/>
+## Additional Insights
+
+* The current version contains only the UI of the e-commerce store.
+* Functionality will be added later.
